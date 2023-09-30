@@ -2,7 +2,7 @@
 
 Build and Deploy Monsters Rolodex with React.
 
-[`Live View`]()
+[`Live View`](https://react-monsters-rolodex-nine.vercel.app/)
 
 This application creates “monster” cards with monster images, and user names as well as emails by connecting to two APIs.
 
